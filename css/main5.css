@@ -1,0 +1,10 @@
+.wrap{
+    width: 1200px ;
+    height: 500px;
+}
+.menu-item{
+    width: 200px;
+    height: 500px;
+    margin: 0 10px;
+    border: 1px solid black;
+}
